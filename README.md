@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi everyone! 👋
 I'm new in programming and I'm looking to learn about Python and Data Engineering!
 
 <!--
