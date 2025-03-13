@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm new in programming and I'm looking to learn about Python and Data Engineering!
 
 <!--
 **j-acodes/j-acodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
